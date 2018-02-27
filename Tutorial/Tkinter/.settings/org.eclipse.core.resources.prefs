@@ -12,6 +12,7 @@ encoding/Tkinter\ Combobox_Virtual\ Event\ Binding.py=utf-8
 encoding/Tkinter\ Entry_Basic.py=utf-8
 encoding/Tkinter\ Hello\ World.py=utf-8
 encoding/Tkinter\ Label.py=utf-8
+encoding/Tkinter\ Label_Get\ Fonts\ List.py=utf-8
 encoding/Tkinter\ Label_Get\ Properties.py=utf-8
 encoding/Tkinter\ Label_Pack\ Manager.py=utf-8
 encoding/Tkinter\ Label_Set\ Text\ Font.py=utf-8
