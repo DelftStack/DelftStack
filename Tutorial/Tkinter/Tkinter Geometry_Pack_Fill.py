@@ -11,15 +11,12 @@ Website: https://www.delftstack.com
 import tkinter as tk    
     
 app = tk.Tk()
-app.geometry('300x400')
+app.geometry('300x200')
 
-buttonW = tk.Button(app, text="West", width=15)
-buttonW.pack(side='left')
+buttonX = tk.Button(app, text="Fill X", bg="red", height=5)
+buttonX.pack(fill='x')
 
-buttonE1 = tk.Button(app, text="East 1", width=15)
-buttonE1.pack(side='right')
-
-buttonE2 = tk.Button(app, text="East 2", width=15)
-buttonE2.pack(side='right')
+buttonY = tk.Button(app, text="Fill Y", bg="green", width=10)
+buttonY.pack(side='left', fill='y')
 
 app.mainloop()
