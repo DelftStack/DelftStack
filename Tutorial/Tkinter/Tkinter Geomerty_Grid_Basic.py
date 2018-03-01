@@ -17,7 +17,7 @@ labelWidth.grid(column=0, row=0, ipadx=5, pady=5, sticky=tk.W+tk.N)
 
 labelHeight = tk.Label(app,
                     text = "Height Ratio")
-labelHeight.grid(column=1, row=1, ipadx=5, pady=5, sticky=tk.W+tk.S)
+labelHeight.grid(column=0, row=1, ipadx=5, pady=5, sticky=tk.W+tk.S)
 
 
 entryWidth = tk.Entry(app, width=20)
