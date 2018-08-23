@@ -6,3 +6,6 @@ encoding/Matplotlib\ Line\ Chart\ -Axis\ Label.py=utf-8
 encoding/Matplotlib\ Line\ Chart\ -Color\ Single\ Letter\ Alias.py=utf-8
 encoding/Matplotlib\ Line\ Chart\ -Line\ Style.py=utf-8
 encoding/Matplotlib\ Line\ Chart\ -Line\ Width.py=utf-8
+encoding/Matplotlib\ Pie\ Chart\ -\ Clockwise.py=utf-8
+encoding/Matplotlib\ Pie\ Chart\ -\ Explode.py=utf-8
+encoding/Matplotlib\ Pie\ Chart.py=utf-8
